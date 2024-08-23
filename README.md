@@ -16,9 +16,9 @@ Este é um projeto simples de uma página para agrupar e compartilhar links para
 
 ### SASS
 Na raíz do projeto, utlizamos o comando a seguir para automatizar as estilizações.
-       
+
 ```
-sass assets/_cdn/scss:assets/_cdn/css --watch
+sass assets/scss:assets/css --watch
 ```
 
 
