@@ -14,6 +14,15 @@ Este é um projeto simples de uma página para agrupar e compartilhar links para
 - CSS: para o estilo visual da página.
 - Sass: para facilitar a manutenção e modularização do CSS.
 
+### SASS
+Na raíz do projeto, utlizamos o comando a seguir para automatizar as estilizações.
+       
+```
+sass assets/_cdn/scss:assets/_cdn/css --watch
+```
+
+
+
 ## Funcionalidades
 
 Links para redes sociais com design clean e moderno.
